@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.exe
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.deps.json
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.runtimeconfig.json
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.dll
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\bin\Debug\netcoreapp3.1\LargerAndOddNumber.pdb
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\obj\Debug\netcoreapp3.1\LargerAndOddNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\obj\Debug\netcoreapp3.1\LargerAndOddNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\obj\Debug\netcoreapp3.1\LargerAndOddNumber.dll
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\obj\Debug\netcoreapp3.1\LargerAndOddNumber.pdb
+C:\Users\User\source\repos\LargerAndOddNumber\LargerAndOddNumber\obj\Debug\netcoreapp3.1\LargerAndOddNumber.csprojAssemblyReference.cache
